@@ -49,11 +49,11 @@ Run the cells and wait for it to complete.
 
 ## After Training:
 The training time was largely reduced comparing the previous project <br>
-the agent was also able to complete the level
-Level 1 Output:
-OUTPUT|![](docs/video/level1-1.gif)|
-Steps    |8M   |
-Completed|True |
+the agent was also able to complete the level<br>
+Level 1 Output:<br>
+**OUTPUT:**    ![](docs/video/level1-1.gif)<br>
+**Steps**  8M<br>
+**Completed**  True
 
 
 
