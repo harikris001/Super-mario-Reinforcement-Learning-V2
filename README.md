@@ -51,7 +51,7 @@ Run the cells and wait for it to complete.
 The training time was largely reduced comparing the previous project <br>
 the agent was also able to complete the level
 Level 1 Output:
-OUTPUT|[](docs/video/level1-1.gif)|
+OUTPUT|![](docs/video/level1-1.gif)|
 Steps    |8M   |
 Completed|True |
 
