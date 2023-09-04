@@ -59,3 +59,13 @@ Level 1 Output:<br>
 
 **I have attached the Pre trained models if u want to test them**<br>
 **Some other Models are also Attached but they have not completed the levels**
+
+<hr>
+<hr>
+<div align="center">
+            <a href="https://www.buymeacoffee.com/harikris001" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
